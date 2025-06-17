@@ -66,7 +66,6 @@ community organizations, and other ways to get involved in local builder ecosyst
 Make it easy for people to build things like:
 * https://www.vancouverstartupguide.com/
 * https://www.montrealstartupguide.org/
-* 
 
 ### Work for a Canadian Startup
 
