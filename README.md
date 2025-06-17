@@ -71,3 +71,6 @@ Make it easy for people to build things like:
 
 YC makes it easy to find their companies and who is hiring, it should be just as easy to find a great job at a Canadian startup as it is at finding one in the US. 
 
+### Your project here?
+
+Create an issue and we'll work with you to get your project added to this list!
