@@ -4,10 +4,9 @@ Build Canada is making Canada the most prosperous country on earth.
 
 To do that, we need to build, connect Canadian builders and hold our governments accountable to building this country.
 
-These are projects we want to see built in service of Canada
+These are projects we want to see built in service of Canada, come build them with us!
 
-Please take these ideas and run with them! Share what you build with us and we will help it be seen.
-
+If you're excited about these projects (or other ones where you think we could help), please fill out [our intake form](https://docs.google.com/forms/d/e/1FAIpQLSc243abrh6ecdV50mebkH35m6EWAUvwj8PBxwLRIMNnAyGGxQ/viewform) to get access to our discord.
 
 ## Project Requests
 
@@ -18,11 +17,6 @@ It's hard to understand how our governments spends our money. Canada Spends trie
 ### [Government Outcomes Tracker](github.com/BuildCanada/OutcomesTracker)
 
 The government promises to do a lot of things, let's use AI to keep it accountable for what it is doing (or failing ot do).
-
-### Crowdsourced Problem Reporter
-
-We want effective government, by making a crowdsourced list of issues that people have encountered,
-we can work collaboratively to effect change if we know other people are encountering the same issues. 
 
 ### Builder Hub
 
@@ -47,7 +41,7 @@ government that
 
 ### Performance Dashboard
 
-Make it easy to compare jurisdictions on key KPIs so that 
+Make it easy to compare jurisdictions on key KPIs so that it's easy to see which juridictions are succeeding other ones can shamelessly copy them.
 
 If it takes 10 days to approve a permit in one jurisdiction but 10 months in another, we can show people what is possible and demand better
 
