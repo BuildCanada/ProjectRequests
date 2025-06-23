@@ -16,7 +16,7 @@ It's hard to understand how our governments spends our money. Canada Spends trie
 
 ### [Government Outcomes Tracker](https://github.com/BuildCanada/OutcomesTracker)
 
-The government promises to do a lot of things, let's use AI to keep it accountable for what it is doing (or failing ot do).
+The government promises to do a lot of things, let's use AI to keep it accountable for what it is doing (or failing to do).
 
 ### Your project here?
 
